@@ -7,7 +7,9 @@
 
 ## Contents 
 
-(i)  [Code](presonality_prediction_with_k-means_algo.ipynb)
+(i)  [dataset description](codebook.txt)
+
+(ii) [Code](presonality_prediction_with_k-means_algo.ipynb)
 
 
-(ii) [Report](Personality_prediction_project-report.pdf)
+(iii) [Report](Personality_prediction_project-report.pdf)
