@@ -1,4 +1,5 @@
-# personality-prediction-ml-mini
+# ML mini project
+# personality prediction model 
 
 ## Created a personality prediction model using K-Means algorithm
 
