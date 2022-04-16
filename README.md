@@ -13,4 +13,4 @@
 (ii) [Code](presonality_prediction_with_k-means_algo.ipynb)
 
 
-(iii) [Report](Personality_prediction_project-report.pdf)
+(iii) [Project Report](Personality_prediction_project-report.pdf)
